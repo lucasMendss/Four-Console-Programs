@@ -29,21 +29,21 @@ tabela:
   </tr>
 </table>
 <p>Fórmula para o cálculo da velocidade em m/s: V = v0 + a. t</p>
-<br>
+<hr>
 
 <h3>Programa 43:</h3>
 <p>Calcular e exibir a soma dos “N” primeiros valores da seqüência abaixo. O valor “N” será digitado,
 deverá ser positivo, mas menor que cinqüenta. Caso o valor não satisfaça a restrição, enviar mensagem de
 erro e solicitar o valor novamente.</p>
 <p>Sequência: 1/2, 2/3, 3/4, 4/5, ...</p>
-<br>
+<hr>
 
 <h3>Programa 44:</h3>
 <p>Calcular e exibir a soma dos “N” primeiros valores da seqüência abaixo. O valor “N” será digitado,
 deverá ser positivo, mas menor que cinqüenta. Caso o valor não satisfaça a restrição, enviar mensagem de
 erro e solicitar o valor novamente.</p>
 <p>Sequência: 2, 5/8, 10/27, 17/64, ...</p>
-<br>
+<hr>
 
 <h3>Programa 50:</h3>
 <p>Entrar via teclado com dois valores quaisquer. Após a digitação, exibir um seletor de opções (“menu”)
